@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi there 👋
+
+---
+
+> ### I work at the
+> - 🔭 Educational and Methodological Center "Dialog" of UrFU as a programmer
+
+---
+
+> ### I’m currently learning
+> - ❔ React
+> - ❔ TypeScript
+> - ❔ Kaiten
+> - ❔ High-performance computer technologies
+
+---
+
+> ### Projects in Frontend
+> - 🔥 [WEB-LAREK](https://github.com/hallomann/web-larek-frontend.git)
+> - 🔥 [MESTO-FF](git@github.com:hallomann/mesto-project-ff.git)
+> - 🔥 [ZAKRIVAYUSCHIY-TEG](https://github.com/hallomann/zakrivayuschiy-teg-f.git)
+
+---
+
+> ### How to get to know me
+> - ⭐ [GitHub](https://github.com/hallomann)
+> - ⭐ [LeetCode](https://leetcode.com/hallo-mann/)
+
+---
+
+> ### How to contact me
+> - ⭐ [G-MAIL](aleksandr.eroschkin@gmail.com): `aleksandr.eroschkin@gmail.com`
+> - ⭐ [YANDEX-MAIL](AleksandrEroschkin.mann@yandex.ru): `AleksandrEroschkin.mann@yandex.ru`
+> - ⭐ [VK](https://vk.com/aleksandr.eroshkin): `https://vk.com/aleksandr.eroshkin`
+> - ⭐ [TELEGRAM](image.png): 
+    ![alt text](image-1.png)
+
+---
+
+> ### Useful Links
+> - ⚡ [GitHub Icons](https://willkyu.github.io/ZONE/Emoji/Emoji.html)
+
+---
 
 <!--
 **hallomann/hallomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
