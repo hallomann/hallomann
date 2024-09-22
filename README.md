@@ -17,7 +17,7 @@
 
 > ### Projects in Frontend
 > - 🔥 [WEB-LAREK](https://github.com/hallomann/web-larek-frontend.git)
-> - 🔥 [MESTO-FF](git@github.com:hallomann/mesto-project-ff.git)
+> - 🔥 [MESTO-PROJECT](https://github.com/hallomann/mesto-project-ff.git)
 > - 🔥 [ZAKRIVAYUSCHIY-TEG](https://github.com/hallomann/zakrivayuschiy-teg-f.git)
 
 ---
