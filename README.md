@@ -22,6 +22,11 @@
 
 ---
 
+> ### Projects in Python
+> - 🔥 [HCT-HOMEWORKS](https://github.com/hallomann/hct-homeworks.git)
+
+---
+
 > ### How to get to know me
 > - ⭐ [GitHub](https://github.com/hallomann)
 > - ⭐ [LeetCode](https://leetcode.com/hallo-mann/)
