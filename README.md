@@ -10,12 +10,13 @@
 > ### I’m currently learning
 > - ❔ React
 > - ❔ TypeScript
-> - ❔ Kaiten
-> - ❔ High-performance computer technologies
+> - ❔ Algorithms
+> - ❔ DevOps
 
 ---
 
 > ### Projects in Frontend
+> - 🔥 [STELLAR-BURGERS](https://github.com/hallomann/stellar-burgers.git)
 > - 🔥 [WEB-LAREK](https://github.com/hallomann/web-larek-frontend.git)
 > - 🔥 [MESTO-PROJECT](https://github.com/hallomann/mesto-project-ff.git)
 > - 🔥 [ZAKRIVAYUSCHIY-TEG](https://github.com/hallomann/zakrivayuschiy-teg-f.git)
