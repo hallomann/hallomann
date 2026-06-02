@@ -3,15 +3,18 @@
 ---
 
 > ### I work at the
-> - 🔭 Educational and Methodological Center "Dialog" of UrFU as a programmer
+> 
+> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ab2f1af5-7f5e-4f56-910b-b36ffa2eebd3" />
+> 
+> SKB Kontur as software engineer
 
 ---
 
 > ### I’m currently learning
 > - ❔ React
 > - ❔ TypeScript
-> - ❔ Algorithms
-> - ❔ DevOps
+> - ❔ Redux
+> - ❔ Redux Saga
 
 ---
 
