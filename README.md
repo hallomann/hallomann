@@ -2,11 +2,7 @@
 
 ---
 
-> ### I work at the
-> 
-> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ab2f1af5-7f5e-4f56-910b-b36ffa2eebd3" />
-> 
-> SKB Kontur as software engineer
+> ### I am looking for a job as a software engineer
 
 ---
 
@@ -14,7 +10,9 @@
 > - ❔ React
 > - ❔ TypeScript
 > - ❔ Redux
-> - ❔ Redux Saga
+> - ❔ Playwright
+> - ❔ MobX
+> - ❔ NodeJS
 
 ---
 
